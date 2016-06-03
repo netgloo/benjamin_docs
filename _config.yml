@@ -1,0 +1,33 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+#
+# Site settings
+#
+
+title: Benjamin
+
+email: info@netgloo.com
+
+# Write an awesome description for your new site here. It will appear in your
+# document head meta (for Google search results) and in your feed.xml site 
+# description.
+description: >
+   Benjamin is a PHP/JavaScript platform for easily building static websites 
+   with an amazing fast navigation. You will find here the documentation to 
+   getting started with Benjamin.
+
+# The subpath of your site, e.g. /blog
+baseurl: ""
+
+url: "https://github.com/netgloo/benjamin"
+
+#
+# Build settings
+#
+
+markdown: kramdown
