@@ -57,7 +57,7 @@ Also, these are PHP requirements from [Laravel](https://laravel.com/docs/5.2#ins
 
 ## Installation
 
-[Download Benjamin 1.0](https://github.com/netgloo/benjamin/archive/1.0.0.zip), extract it and rename the folder with the name of your project, e.g. `my-website`. Then from inside the project's folder type:
+[Download the latest version from GitHub](https://github.com/netgloo/benjamin/archive/master.zip), extract it and rename the folder with the name of your project, e.g. `my-website`. Then from inside the project's folder type:
 
 ``` bash
 $ composer install
