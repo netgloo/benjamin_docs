@@ -26,8 +26,16 @@ baseurl: ""
 
 url: "https://github.com/netgloo/benjamin"
 
+
 #
 # Build settings
 #
 
 markdown: kramdown
+
+
+#
+# Services
+#
+
+google_analytics: UA-78772827-1

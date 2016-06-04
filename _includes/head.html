@@ -8,4 +8,9 @@
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.github.url  }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.github.url | prepend: site.url }}">
+
+  {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+  {% endif %}
+
 </head>
