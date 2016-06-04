@@ -2,6 +2,30 @@
 layout: default
 ---
 
+# Quick Start
+
+## Get Benjamin
+
+[Download the latest version from GitHub](https://github.com/netgloo/benjamin/archive/master.zip).
+
+Extract it and rename the folder with the name of your project.
+
+## Get Started
+
+Run these commands within the project folder:
+
+```
+$ composer install
+$ cp .env.example .env
+$ php artisan key:generate
+$ php artisan serve
+```
+
+Go to [http://localhost:8000](http://localhost:8000) and you will see a welcome page.
+
+Have fun!
+
+
 # Benjamin
 
 ## Contents
@@ -33,29 +57,6 @@ layout: default
    * [Customizations](#customizations) 
    * ...
 -->
-
-## Get Benjamin
-
-[Download the latest version from GitHub](https://github.com/netgloo/benjamin/archive/master.zip).
-
-Extract it and rename the folder with the name of your project.
-
-
-## Quick Start
-
-Run these commands within the project folder:
-
-```
-$ composer install
-$ cp .env.example .env
-$ php artisan key:generate
-$ php artisan serve
-```
-
-Go to [http://localhost:8000](http://localhost:8000) and you will see a welcome page.
-
-Have fun!
-
 
 ## What is Benjamin
 
