@@ -10,7 +10,7 @@ layout: default
 
 Extract it and rename the folder with the name of your project.
 
-## Get Started
+## Getting Started
 
 Run these commands within the project folder:
 
