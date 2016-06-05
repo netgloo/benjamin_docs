@@ -6,7 +6,7 @@ layout: default
 
 ## Get Benjamin
 
-[Download the latest version from GitHub](https://github.com/netgloo/benjamin/archive/master.zip).
+[Download the latest version](https://github.com/netgloo/benjamin/archive/master.zip) from GitHub.
 
 Extract it and rename the folder with the name of your project.
 
